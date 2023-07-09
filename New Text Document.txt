@@ -1,0 +1,15 @@
+       <div class="form-group">
+         <label for="title">Album ID</label>
+        <input type="text" class="form-control" id="alid" name="alid" aria-describedby="emailHelp">
+      </div>
+       <div class="form-group">
+      <label for="title">Artist ID</label>
+        <input type="text" class="form-control" id="aid" name="aid" aria-describedby="emailHelp">
+      </div>
+
+
+
+      & alid=<?=$row['ALID']?> & aid=<?=$row['AID']?>
+
+
+      

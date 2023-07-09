@@ -1,0 +1,25 @@
+
+.button{
+   cursor: pointer;
+   border:solid 2px rgb(90, 88, 88);
+    font-size:25px ;
+    text-decoration: none;
+    background-color: grey;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin: 300px ;
+    padding:12px;
+   
+  
+   }
+
+.button:hover{
+    color: cornsilk;
+    background-color: rgb(95, 65, 230);
+  
+   font-size:26px;
+ transition: 0.5s;
+ box-shadow: 5px 5px 16px rgb(88, 84, 84);
+}
+
+
